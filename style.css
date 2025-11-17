@@ -1,0 +1,50 @@
+.conteudo{
+    margin-right: 40px;
+    margin-left:  40px;
+    color: white;
+}
+html, body {
+    height: 100%;
+    margin: 0;
+}
+body {
+    background-image: url('fut.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    padding: 15px;
+}
+th{
+    padding: 10px;
+}
+h1{
+    color: white;
+    backdrop-filter: blur(30px);
+    border-radius: 10px;
+}
+.tabela{
+    backdrop-filter: blur(30px);
+    color: white;
+    border-radius: 10px;
+    width: 450px;
+}
+.foto{
+    width: 300px;
+    height: 200px;
+    border-left: 20px;
+    border-radius: 5px;
+    box-shadow: 2px 2px black;
+}
+section{
+    color: white;
+    width: auto;
+    padding: 15px;
+    margin-bottom: 20px;
+    backdrop-filter: blur(10px);
+    border-radius: 10px; 
+    font-size: 20px;
+}
