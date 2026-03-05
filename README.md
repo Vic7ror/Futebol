@@ -1,5 +1,5 @@
 # Futebol
-## Atividade da faculdade
+## Atividade do ensino médio técnico
 Crie uma página responsiva com o tema que desejar utilizando Html, css e Bootstrap.
 
 ## Prints e Gifs
