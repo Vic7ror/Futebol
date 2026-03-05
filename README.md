@@ -3,7 +3,9 @@
 Crie uma página responsiva com o tema que desejar.
 
 --------------------------------------------------
+
 Linguagens: Html, css e Bootstrap.
+
 --------------------------------------------------
 
 ## Prints e Gifs
